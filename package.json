@@ -1,0 +1,26 @@
+{
+  "name": "hotels",
+  "version": "1.0.0",
+  "description": "Api de hoteles",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "npm": "^7.5.4",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJosvid/hotel-front.git"
+  },
+  "author": "JosvidC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJosvid/hotel-front/issues"
+  },
+  "homepage": "https://github.com/DevJosvid/hotel-front#readme"
+}
